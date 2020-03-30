@@ -28,4 +28,5 @@ do
 done
 wait
 
+mv movie_data ..
 cd "$current_dir"
