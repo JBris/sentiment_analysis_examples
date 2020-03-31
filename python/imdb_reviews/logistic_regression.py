@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+# Source: https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
+# Author: Aaron Kub - https://towardsdatascience.com/@aaronkub
+# Dataset: http://ai.stanford.edu/~amaas/data/sentiment/
+# Merged data set can be found at https://github.com/aaronkub/machine-learning-examples/tree/master/imdb-sentiment-analysis
+
 import re
 from dataset import load_data
 from sklearn.feature_extraction.text import CountVectorizer
