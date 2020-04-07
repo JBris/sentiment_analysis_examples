@@ -1,3 +1,6 @@
+# Source: https://data-flair.training/blogs/data-science-r-sentiment-analysis-project/
+# Author: DataFlair Team - https://data-flair.training/blogs/author/dfteam2/
+
 library(janeaustenr)
 library(stringr)
 library(tidytext)
