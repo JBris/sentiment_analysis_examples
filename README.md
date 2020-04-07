@@ -27,7 +27,7 @@ You can then execute various python scripts to analyze and model the data. It's 
 ### R
 
 
-Additional examples are written in R. From the [.env.example file](.env.example), you can see that R scripts are written in version 3.6.3. A list of additional R and Python packages can be found in the [Dockerfile](r/Dockerfile). 
+Additional examples are written in R. From the [.env.example file](.env.example), you can see that R scripts are written in version 3.6.3. A list of additional R packages can be found in the [Dockerfile](r/Dockerfile). 
 
 As the [docker-compose.yml](docker-compose.yml) file shows, this repo employs the [rocker/tidyverse image](https://hub.docker.com/r/rocker/tidyverse) which already includes the tidyverse collection and RStudio server.  
 
