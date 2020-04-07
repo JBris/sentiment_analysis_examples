@@ -1,4 +1,8 @@
-> # Sentiment analysis demo
+# Source: https://medium.com/@ODSC/sentiment-analysis-in-r-made-simple-bafea2c3a29c
+# Author: Open Data Science (ODS) - https://medium.com/@ODSC
+# See https://www.rdocumentation.org/packages/tm/versions/0.7-7/topics/acq
+
+# Sentiment analysis demo
   
 library(tm)
 library(SentimentAnalysis)
