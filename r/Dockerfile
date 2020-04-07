@@ -10,6 +10,8 @@ ENV R_PACKAGES="\
     rtweet \
     textdata \
     sentimentr \
+    tm \
+    SentimentAnalysis \
     ndjson \
 " 
 
